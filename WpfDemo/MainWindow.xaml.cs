@@ -24,5 +24,10 @@ namespace WpfDemo
         {
             InitializeComponent();
         }
+
+        private void Button_Click(object sender, RoutedEventArgs e)
+        {
+            Accueil.Text = "Bravo ! Vous avez cliqué";
+        }
     }
 }
