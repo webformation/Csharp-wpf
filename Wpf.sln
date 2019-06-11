@@ -7,20 +7,38 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfDemo", "WpfDemo\WpfDemo.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfBinding", "Binding\WpfBinding.csproj", "{C93B8635-B44B-4215-9E4A-A3AAF9DB3FFB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataGrid", "DataGrid\DataGrid.csproj", "{02AC6258-A4BD-4270-B385-6AA22E6538F5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
 		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{E64D694D-9869-4138-9329-9EA4E91A785D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{E64D694D-9869-4138-9329-9EA4E91A785D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E64D694D-9869-4138-9329-9EA4E91A785D}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{E64D694D-9869-4138-9329-9EA4E91A785D}.Debug|x86.Build.0 = Debug|Any CPU
 		{E64D694D-9869-4138-9329-9EA4E91A785D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E64D694D-9869-4138-9329-9EA4E91A785D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E64D694D-9869-4138-9329-9EA4E91A785D}.Release|x86.ActiveCfg = Release|Any CPU
+		{E64D694D-9869-4138-9329-9EA4E91A785D}.Release|x86.Build.0 = Release|Any CPU
 		{C93B8635-B44B-4215-9E4A-A3AAF9DB3FFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{C93B8635-B44B-4215-9E4A-A3AAF9DB3FFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C93B8635-B44B-4215-9E4A-A3AAF9DB3FFB}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{C93B8635-B44B-4215-9E4A-A3AAF9DB3FFB}.Debug|x86.Build.0 = Debug|Any CPU
 		{C93B8635-B44B-4215-9E4A-A3AAF9DB3FFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C93B8635-B44B-4215-9E4A-A3AAF9DB3FFB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C93B8635-B44B-4215-9E4A-A3AAF9DB3FFB}.Release|x86.ActiveCfg = Release|Any CPU
+		{C93B8635-B44B-4215-9E4A-A3AAF9DB3FFB}.Release|x86.Build.0 = Release|Any CPU
+		{02AC6258-A4BD-4270-B385-6AA22E6538F5}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{02AC6258-A4BD-4270-B385-6AA22E6538F5}.Debug|x86.ActiveCfg = Debug|x86
+		{02AC6258-A4BD-4270-B385-6AA22E6538F5}.Debug|x86.Build.0 = Debug|x86
+		{02AC6258-A4BD-4270-B385-6AA22E6538F5}.Release|Any CPU.ActiveCfg = Release|x86
+		{02AC6258-A4BD-4270-B385-6AA22E6538F5}.Release|x86.ActiveCfg = Release|x86
+		{02AC6258-A4BD-4270-B385-6AA22E6538F5}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
